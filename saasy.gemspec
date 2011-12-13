@@ -7,9 +7,9 @@ require "saasy/version"
 Gem::Specification.new do |s|
   s.name        = "saasy"
   s.version     = Saasy::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
+  s.authors     = ["Matthew Burket"]
+  s.email       = ["Matthew@AssignItApp.com"]
+  s.homepage    = "https://github.com/Mab879/saasy-rail"
   s.summary     = "TODO: Summary of Saasy."
   s.description = "TODO: Description of Saasy."
 
